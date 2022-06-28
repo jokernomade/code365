@@ -14,3 +14,6 @@ O google vai indexar seu gist e ele será encontrado por outros programadores. S
 1. Compartilhe seu gist.
 2. Um bom nome para seu gist
 3. A descrição do seu gist deve ser auto descritivo, por exemplo: "Fazer upload no Amazon S3 em node"
+
+# Open source
+[Vamos tornar esse projeto público.](https://github.com/KingOfGist/code365/issues/1)
